@@ -21,13 +21,13 @@
 
 ## Скриншоты ##
 
-![img](less1.png)
-![img](less1-1.png)
+![img](pic/less1.png)
+![img](pic/less1-1.png)
 
 Порт 8080 занят, используем 8880
 
-![img](less1-2.png)
-![img](less1-3.png)
+![img](pic/less1-2.png)
+![img](pic/less1-3.png)
 
 
 
@@ -81,21 +81,34 @@
 
 ## Work ##
 
-![img](less2-1.png)
+![img](pic/less2-1.png)
 (Переименовано в FormProcessorController)
 
 Пункт 4. Создан шаблон *resources/views/registrationForm.blade.php*
 
-![img](less2-2.png)
-![img](less2-3.png)
-![img](less2-4.png)
-![img](less2-5.png)
+![img](pic/less2-2.png)
+![img](pic/less2-3.png)
+![img](pic/less2-4.png)
+![img](pic/less2-5.png)
 
+# Урок 3. Работа с базами данных. ORM-система Eloquent #
 
+<i>Цели:
 
+Научиться:
 
+— создавать новые базы данных;
+— создавать новые таблицы внутри базы данных;
+— подключаться к базе данных через Laravel;
+— заполнять таблицы необходимыми данными при помощи Eloquent ORM.
+</i>
 
+## Work: ##
 
-
+![img](pic/less3-1.png)
+![img](pic/less3-2.png)
+![img](pic/less3-3.png)
+![img](pic/less3-4.png)
+![img](pic/less3-5.png)
 
 
