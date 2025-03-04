@@ -1,7 +1,7 @@
 
 @extends('layouts.default')
     @php
-        $title = $info['title']
+        $title = $info['title'];
     @endphp
 @section('content')
         @if ($info['age'] < 18)
