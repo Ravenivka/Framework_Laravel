@@ -16,4 +16,16 @@
 
 Папка project, ветка lesson4
 
+Вариант 1
+
+![img](pic/4-1.jpeg)
+![img](pic/4-2.jpeg)
+![img](pic/4-3.jpeg)
+
+Вариант 2
+
+![img](pic/4-4.jpeg)
+![img](pic/4-5.jpeg)
+![img](pic/4-6.jpeg)
+
 
