@@ -21,6 +21,8 @@
 
 ## Скриншоты ##
 
+Папка project
+
 ![img](pic/less1.png)
 ![img](pic/less1-1.png)
 
@@ -81,6 +83,8 @@
 
 ## Work ##
 
+Папка project
+
 ![img](pic/less2-1.png)
 (Переименовано в FormProcessorController)
 
@@ -104,6 +108,8 @@
 </i>
 
 ## Work: ##
+
+Архив project2
 
 ![img](pic/less3-1.png)
 ![img](pic/less3-2.png)
