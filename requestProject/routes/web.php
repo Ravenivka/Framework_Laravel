@@ -8,3 +8,7 @@ Route::get('/', function () {
 });
 Route::get('/index' , [EmployeeController::class, 'index']) ;
 Route::post('/store-form', [EmployeeController::class,'store']) ;
+//Route::get('/view' , [EmployeeController::class, 'view']) ;  debug route
+Route::get('/user/{id}', [EmployeeController::class,'update'])  ;
+
+

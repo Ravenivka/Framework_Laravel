@@ -40,6 +40,22 @@
 ## Work ##
 Папка requestProject, ветка lesson4
 
+![img](pic/pic5-1.png)
+![img](pic/pic5-2.png)
+![img](pic/pic5-3.png)
 
+user/id
 
+![img](pic/pic5-4.png)
+![img](pic/pic5-5.png)
+![img](pic/pic5-6.png)
+![img](pic/pic5-1.jpg)
 
+Modified:
+
+![img](pic/pic5-2.jpg)
+![img](pic/pic5-3.jpg)
+
+Результат:
+
+![img](pic/5-1.gif)
