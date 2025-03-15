@@ -74,6 +74,8 @@ Modified:
 
 ## Work ##
 
+Папка project, ветка lesson4
+
 Настройка базы данных в .env
 
 ![img](pic/less6-1.png)
