@@ -244,3 +244,33 @@ Modified:
 
 ## Work ##
 
+Папка crud
+
+Создаём подключение
+
+![img](pic/pic7-1.jpg)
+![img](pic/pic7-2.jpg)
+![img](pic/pic7-1.png)
+![img](pic/pic7-2.png)
+![img](pic/pic7-3.png)
+![img](pic/pic7-4.png)
+![img](pic/pic7-5.png)
+![img](pic/pic7-6.png)
+![img](pic/pic7-3.jpg)
+
+Установка DOMPDF-пакет:
+
+<code>composer require barryvdh/laravel-dompdf</code>
+
+<code>php artisan make:controller PdfGeneratorController</code>
+
+Изменил макет (DomPDF не дружит с кириллицей)
+
+![img](pic/pic7-4.jpg)
+
+Show PDF
+
+![img](pic/pic7-2.gif)
+
+[Downloaded file](pic/resume.pdf)
+
