@@ -355,3 +355,15 @@ Show PDF
 
 ## Work ##
 
+![img](pic/cash-01.png)![img](pic/cash-02.png)
+
+>Поместите вызов Job в планировщик задач Laravel в файле app/Console/Kernel.php.
+
+С Laravel 11 файл Kernel.php не используется.
+[Руководство.](https://laravel.su/docs/11.x/scheduling?ysclid=m8rl84zsvt898788167)
+
+![img](pic/cash-03.png)
+![img](pic/cash-04.png)
+![img](pic/cash-01.jpg)
+<a href="#top">Наверх</a>
+
