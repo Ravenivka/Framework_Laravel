@@ -12,6 +12,7 @@
 8. <a href="#u8">Урок8</a>
 9. <a href="#u9">Урок9</a>
 10. <a href="#u10">Урок10</a>
+11. <a href="#u11">Урок11</a>
 
 <h2 id="u1">Урок 1. Введение, установка и первичная настройка</h2>
 
@@ -365,5 +366,39 @@ Show PDF
 ![img](pic/cash-03.png)
 ![img](pic/cash-04.png)
 ![img](pic/cash-01.jpg)
+<a href="#top">Наверх</a>
+
+<h2 id="u11">Урок 11. Реализация авторизации</h2>
+<i> 
+
+### Цели практической работы: ###
+
+— интегрировать регистрацию и аутентификацию пользователей;
+
+— разрабатывать механизмы авторизации действий пользователей системы;
+
+— проектировать ролевую модель системы.</i>
+
+## Work ##
+
+![img](pic/auto.png)
+![img](pic/auto2.png)
+
+Установим файлы библиотеки php artisan breeze:install
+
+<code>  INFO  Breeze scaffolding installed successfully.</code>
+
+![img](pic/auto3.png)
+![img](pic/auto4.png)
+![img](pic/auto5.png)
+![img](pic/auto6.png)
+![img](pic/auto7.png)
+![img](pic/auto.jpg)
+![img](pic/auto1.jpg)
+![img](pic/auto2.jpg)
+![img](pic/auto3.jpg)
+![img](pic/auto4.jpg)
+![img](pic/14_6.png)
+
 <a href="#top">Наверх</a>
 
