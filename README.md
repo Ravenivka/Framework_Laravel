@@ -397,8 +397,9 @@ Show PDF
 ![img](pic/auto1.jpg)
 ![img](pic/auto2.jpg)
 ![img](pic/auto3.jpg)
-![img](pic/auto4.jpg)
 ![img](pic/14_6.png)
+![img](pic/auto4.jpg)
+![img](pic/auto7.jpg)
 
 <a href="#top">Наверх</a>
 
