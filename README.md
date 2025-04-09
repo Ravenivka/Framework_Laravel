@@ -13,6 +13,7 @@
 9. <a href="#u9">Урок9</a>
 10. <a href="#u10">Урок10</a>
 11. <a href="#u11">Урок11</a>
+12. <a href="#u12">Урок12</a>
 
 <h2 id="u1">Урок 1. Введение, установка и первичная настройка</h2>
 
@@ -406,4 +407,53 @@ Show PDF
 ![img](pic/auto7.jpg)
 
 <a href="#top">Наверх</a>
+<h2 id="u12">Урок 12. Интеграция с внешними сервисами</h2>
+<i> 
+
+### Цели практической работы: ###
+
+— интегрировать отправку писем через почтовый клиент;
+
+— настраивать отправку сообщений в мессенджер.</i>
+
+## Work ##
+
+![new project](pic/1_0.png "new project")
+
+регистрация
+
+![registration & autentification](pic/3_0.png "registration & autentification")
+![registration & autentification](pic/3_1.png "registration & autentification")
+![registration & autentification](pic/3_2.png "registration & autentification")
+![registration & autentification](pic/3_3.png "registration & autentification")
+![registration & autentification](pic/3_4.png "registration & autentification")
+![registration & autentification](pic/3_5.png "registration & autentification")
+![registration & autentification](pic/3_6.png "registration & autentification")
+![registration & autentification](pic/3_7.png "registration & autentification")
+![registration & autentification](pic/3_8.png "registration & autentification")
+![registration & autentification](pic/3_9.png "registration & autentification")
+![registration & autentification](pic/3_10.png "registration & autentification")
+![registration & autentification](pic/3_11.png "registration & autentification")
+![registration & autentification](pic/3_12.png "registration & autentification")
+
+почтовый клиент
+
+![postoffice client](pic/4_0.png "postoffice client")
+![postoffice client](pic/4_1.png "postoffice client")
+
+![.env](pic/5_0.png ".env")
+![Welcome.php](pic/6_0.png "Welcome.php")
+
+![constructor Welcome](pic/7_0.png "constructor Welcome")
+![шаблон мейлинга welcome.blade.php](pic/8_0.png "шаблон мейлинга welcome.blade.php")
+![store класса RegisteredUserController](pic/9_0.png "store класса RegisteredUserController")
+
+Telegram
+
+![сообщение в телеграм](pic/17_0.png "сообщение в телеграм")
+
+<a href="#top">Наверх</a>
+
+
+
 
