@@ -356,6 +356,8 @@ Show PDF
 
 ## Work ##
 
+Архив into-laravel.7z
+
 ![img](pic/cash-01.png)![img](pic/cash-02.png)
 
 >Поместите вызов Job в планировщик задач Laravel в файле app/Console/Kernel.php.
@@ -380,6 +382,8 @@ Show PDF
 — проектировать ролевую модель системы.</i>
 
 ## Work ##
+
+Архив into-laravel.7z
 
 ![img](pic/auto.png)
 ![img](pic/auto2.png)
